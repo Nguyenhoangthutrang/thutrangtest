@@ -3,4 +3,5 @@ Nhập a: <input type="text" size = "10" name = "a">
 Nhập b: <input type="text" name = "b">
 Nhập c: <input type="text" name = "c">
 <input type ="submit" name ="cmdSubmit" value = "Gui thong tin">
+<h1>Nguyễn Hoàng Thu Trang</h1>
 </form>
